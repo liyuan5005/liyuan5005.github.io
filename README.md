@@ -19,3 +19,8 @@ PPT: [shorturl.at/mDGPT](shorturl.at/mDGPT)
 Source code: [https://github.com/liyuan5005/liyuan5005.github.io](https://github.com/liyuan5005/liyuan5005.github.io)
 
 Youtube: [https://youtu.be/eOwWSqy-woc](https://youtu.be/eOwWSqy-woc)
+
+![](https://liyuanimage.oss-cn-beijing.aliyuncs.com/img/20191217101454.png)
+![](https://liyuanimage.oss-cn-beijing.aliyuncs.com/img/20191217101612.png)
+![](https://liyuan5005.github.io/images/yumi2.png)
+![](https://liyuanimage.oss-cn-beijing.aliyuncs.com/img/20191217101646.png)
