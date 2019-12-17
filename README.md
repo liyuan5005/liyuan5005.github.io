@@ -1,9 +1,9 @@
 # HKUST MSBD5005 Data Visualization Group Project
 - Time: 2019FALL 
 - Team Member:
-Li Yuan
-Zhao Wei
-Chen Pengyao
+Li Yuan &
+Zhao Wei &
+Chen Pengyao &
 Yumi Shin
 
 Team Name: Attention Please.
